@@ -25,3 +25,7 @@ Kotlin Android NFC URI 写入器。支持从 QQ 音乐、网易云音乐、酷�
 - 网易云音乐：`id` / 歌曲路径 ID。
 - 酷狗音乐：分享链接中的 `chain`，不使用普通歌曲 ID。
 - 汽水音乐：`track_id`。
+
+## 开源协议
+
+本项目采用 [MIT License](LICENSE) 开源。Copyright (c) 2026 LogiclogicWay。
